@@ -14,3 +14,6 @@
 + Facebook、Twitterログイン
 + SNSの投稿表示
 
+##### 環境
+
++ heroku sns-checker(github connect)
